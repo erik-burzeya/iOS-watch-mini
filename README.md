@@ -1,5 +1,7 @@
 # iOS-watch-mini - MINIMALISTIC ANALOG WATCH
-## This is a no-AI learning-project with the goal being a finished analog watch web app with a minimalistic structure and clean code.
+
+## Goal
+**This is a no-AI web application learning-project featuring an analog watch and a minimalistic project structure.**
 
 *Note: To use the application as intended, add it to your homescreen.*
 
